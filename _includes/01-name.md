@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+
+# My Name Is Adithyan S Pillai
+## I am a first semester btech computer science and engneering student
